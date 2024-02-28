@@ -1,0 +1,59 @@
+/* Navbar */
+#navbar .logo{
+  float: none;
+  text-align: center;
+}
+#navbar ul,#navbar ul li{
+  float: none;
+}
+#navbar ul li a{
+  padding: 5px;
+  border-bottom: dotted 1px solid;
+}
+
+/* Homapge */
+.home-info{
+  height: 500px;
+}
+.home-info .home-info-left {
+display: none;
+}
+.home-info .home-info-right {
+  float: none;
+  width: 100%;
+  text-align: center;
+  padding: 50px 30px;
+ 
+}
+.showcase {
+  background: url(../images/showcase.jpg) no-repeat center center/cover;
+  padding-top: 70px;
+  text-align: center;
+  color: #fff;
+  height: 600px;
+}
+
+/* Box */
+.box{
+  float: none;
+  width: 100%;
+}
+
+/* About: Info */
+
+.about-info .info-right,
+.about-info .info-left{
+  float: none;
+  width: 100%;
+}
+.about-info .info-left{
+  margin-top: 30px;
+}
+.l-heading{
+  text-align: center;
+}
+
+/* Contact */
+.contact-info .box{
+  border-bottom: 1px solid #444;
+}
